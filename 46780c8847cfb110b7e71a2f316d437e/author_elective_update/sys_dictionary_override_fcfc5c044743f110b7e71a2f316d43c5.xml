@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="DELETE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_1257403_gest_o_0_pedidos</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:31:22</sys_created_on>
+        <sys_id>fcfc5c044743f110b7e71a2f316d43c5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_update_name>sys_dictionary_override_fcfc5c044743f110b7e71a2f316d43c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:00:43</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</application>
+        <file_path/>
+        <instance_id>a20245e61bba39141024eb9b2d4bcb24</instance_id>
+        <instance_name>dev231491</instance_name>
+        <name>sys_dictionary_override_fcfc5c044743f110b7e71a2f316d43c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override"><sys_dictionary_override action="INSERT_OR_UPDATE"><attributes/><attributes_override>false</attributes_override><base_table>task</base_table><calculation/><calculation_override>false</calculation_override><default_value/><default_value_override>true</default_value_override><dependent/><dependent_override>false</dependent_override><display_override>false</display_override><element>state</element><mandatory>false</mandatory><mandatory_override>false</mandatory_override><name>x_1257403_gest_o_0_pedidos</name><read_only>false</read_only><read_only_override>false</read_only_override><reference_qual/><reference_qual_override>false</reference_qual_override><sys_class_name>sys_dictionary_override</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 13:31:22</sys_created_on><sys_id>fcfc5c044743f110b7e71a2f316d43c5</sys_id><sys_mod_count>4</sys_mod_count><sys_name>state</sys_name><sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope><sys_update_name>sys_dictionary_override_fcfc5c044743f110b7e71a2f316d43c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 15:00:43</sys_updated_on></sys_dictionary_override></record_update>]]></payload>
+        <payload_hash>-1635759852</payload_hash>
+        <record_name>state</record_name>
+        <reverted_from/>
+        <source>8a780c8847cfb110b7e71a2f316d4382</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 15:00:43</sys_created_on>
+        <sys_id>b961fc8c4783f110b7e71a2f316d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3fa540dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:00:43</sys_updated_on>
+        <type>Dictionary Entry Override</type>
+        <update_guid>b161fc8c5183f11055e53a4c8deb2716</update_guid>
+        <update_guid_history>b161fc8c5183f11055e53a4c8deb2716:-1635759852,5931788c4283f110eb9f66f0dfb50c20:-603529930,a1e0b08c9e83f11082bfc1a99ecb64fc:-1434393260,b4fc9c043543f11005eb4216c693bc4a:-966345099,78fc9c04e943f110e4e52247121f2145:1423110987</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 15:43:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
+        <sys_id>2078e197240b41cea3a8490eb1beb701</sys_id>
+        <sys_metadata>fcfc5c044743f110b7e71a2f316d43c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_parent display_value="">473f4c804703f110b7e71a2f316d4365</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_scope_delete display_value="">323bb694921544088622d89b84276db9</sys_scope_delete>
+        <sys_update_name>sys_dictionary_override_fcfc5c044743f110b7e71a2f316d43c5</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_override_fcfc5c044743f110b7e71a2f316d43c5">b961fc8c4783f110b7e71a2f316d4316</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:43:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

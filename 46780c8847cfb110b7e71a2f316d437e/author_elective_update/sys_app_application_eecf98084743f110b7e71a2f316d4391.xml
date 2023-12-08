@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:43:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eecf98084743f110b7e71a2f316d4391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedido - CABO DE REDE</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_update_name>sys_app_application_eecf98084743f110b7e71a2f316d4391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:43:54</sys_updated_on>
+        <title>Pedido - CABO DE REDE</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</application>
+        <file_path/>
+        <instance_id>a20245e61bba39141024eb9b2d4bcb24</instance_id>
+        <instance_name>dev231491</instance_name>
+        <name>sys_app_application_eecf98084743f110b7e71a2f316d4391</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 13:43:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eecf98084743f110b7e71a2f316d4391</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pedido - CABO DE REDE</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope><sys_update_name>sys_app_application_eecf98084743f110b7e71a2f316d4391</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 13:43:54</sys_updated_on><title>Pedido - CABO DE REDE</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>520491946</payload_hash>
+        <record_name>Pedido - CABO DE REDE</record_name>
+        <reverted_from/>
+        <source>8a780c8847cfb110b7e71a2f316d4382</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:43:54</sys_created_on>
+        <sys_id>10df1c084743f110b7e71a2f316d433a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3f5eebb00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:43:54</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>54df1c085443f1109f348122577e4b39</update_guid>
+        <update_guid_history>54df1c085443f1109f348122577e4b39:520491946</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Pedido - CABO DE REDE">830024484743f110b7e71a2f316d437d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 13:44:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>33ffc57da79c48e0997f00c91daa2390</sys_id>
+        <sys_metadata>eecf98084743f110b7e71a2f316d4391</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedido - CABO DE REDE</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_scope_delete display_value="">323bb694921544088622d89b84276db9</sys_scope_delete>
+        <sys_update_name>sys_app_application_eecf98084743f110b7e71a2f316d4391</sys_update_name>
+        <sys_update_version display_value="sys_app_application_eecf98084743f110b7e71a2f316d4391">10df1c084743f110b7e71a2f316d433a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 13:44:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

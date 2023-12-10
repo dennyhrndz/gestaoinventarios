@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>defaul</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Página Inicial - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="gi_index">8c9a828147833910b7e71a2f316d435c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:04:12</sys_created_on>
+        <sys_id>4c9a4a8147833910b7e71a2f316d4321</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Página Inicial - Container 2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_update_name>sp_container_4c9a4a8147833910b7e71a2f316d4321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:22:58</sys_updated_on>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+</record_update>

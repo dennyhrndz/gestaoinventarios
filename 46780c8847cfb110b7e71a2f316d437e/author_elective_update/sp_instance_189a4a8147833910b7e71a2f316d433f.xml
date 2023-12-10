@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>tasks</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">c09a4a8147833910b7e71a2f316d433a</sp_column>
+        <sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:04:12</sys_created_on>
+        <sys_id>189a4a8147833910b7e71a2f316d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_update_name>sp_instance_189a4a8147833910b7e71a2f316d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:04:12</sys_updated_on>
+        <title>News</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=189a4a8147833910b7e71a2f316d433f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</application>
+        <file_path/>
+        <instance_id>a20245e61bba39141024eb9b2d4bcb24</instance_id>
+        <instance_name>dev231491</instance_name>
+        <name>sp_instance_189a4a8147833910b7e71a2f316d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph>tasks</glyph><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">c09a4a8147833910b7e71a2f316d433a</sp_column><sp_widget display_value="KB News">ad2326a45b110200e23dc7ad31f91a1e</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 00:04:12</sys_created_on><sys_id>189a4a8147833910b7e71a2f316d433f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>News</sys_name><sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope><sys_update_name>sp_instance_189a4a8147833910b7e71a2f316d433f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 00:04:12</sys_updated_on><title>News</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=189a4a8147833910b7e71a2f316d433f"/></record_update>]]></payload>
+        <payload_hash>1270335783</payload_hash>
+        <record_name>News</record_name>
+        <reverted_from/>
+        <source>2c4db2c8470ff110b7e71a2f316d43e6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:04:13</sys_created_on>
+        <sys_id>189a4a8147833910b7e71a2f316d4341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5109e8480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:04:13</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>5c9a4a81a4833910d56b9569df989240</update_guid>
+        <update_guid_history>5c9a4a81a4833910d56b9569df989240:1270335783</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="News">5fdece8547833910b7e71a2f316d43dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:22:59</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>a38d2cc6d7844e8496ee3f8428fc2dd1</sys_id>
+        <sys_metadata>189a4a8147833910b7e71a2f316d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>News</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1257403_gest_o_0">46780c8847cfb110b7e71a2f316d437e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">46780c8847cfb110b7e71a2f316d437e</sys_scope>
+        <sys_scope_delete display_value="">323bb694921544088622d89b84276db9</sys_scope_delete>
+        <sys_update_name>sp_instance_189a4a8147833910b7e71a2f316d433f</sys_update_name>
+        <sys_update_version display_value="sp_instance_189a4a8147833910b7e71a2f316d433f">189a4a8147833910b7e71a2f316d4341</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:22:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
